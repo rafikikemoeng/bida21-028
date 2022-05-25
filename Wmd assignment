@@ -1,0 +1,38 @@
+!DOCTYPE html
+<html>
+    <head>
+        <meta charset="utf-8"
+        <title>PopCorn Horizon</title>
+        <link rel="stylesheet" href="css/style.css"
+          <!--fav-icon-------->>
+          <link rel="shortcut icon" href="images/fav icon.png"
+           
+    </head>
+
+    <body>
+        <!--navigation----------->
+         <nav>
+             <!--logo----------->
+             <a href="#" class="logo"
+             <img src="images/logo.jpg"
+         </a>
+         <!--menu------------->
+         <ul class="menu">
+             <li><a href="#">Home</a></li>
+             <li><a href="#">Movies</a></li>
+             <li><a href="#">Romance</a></li>
+             <li><a href="#">Horror</a></li>
+             <li><a href="#">Thriller</a></li>  
+         </ul>
+         <!--search--------->
+         <div class="search">
+             <input type="text" placeholder="Find Your Favorite Movies"
+             <!--search-icon------------->
+              
+         </div>
+            
+             
+
+
+         </nav>
+    </body>
